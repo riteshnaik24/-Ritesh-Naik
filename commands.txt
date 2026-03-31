@@ -1,0 +1,5 @@
+@echo.off
+set/p username=enter your username:
+set/p age =enter your age:
+echo hello % username %! you are % age % yeaes old
+pause
